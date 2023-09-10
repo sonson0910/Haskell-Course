@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 1434,
+            "driver": "MSSQL",
+            "name": "SON",
+            "username": "sa",
+            "database": "QLBH",
+            "password": "sonlearn2003"
+        }
+    ]
+}
